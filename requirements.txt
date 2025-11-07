@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+googletrans==4.0.0rc1
+gTTS==2.5.0
+SpeechRecognition==3.10.1
+pydub==0.25.1
